@@ -1,0 +1,6 @@
+{
+  "name": "WanMotion Hub - RunningHub Queue Manager",
+  "description": "Automated batch queue manager for Wan 2.2 motion control on RunningHub. Queue image and video references with 2-slot concurrency, auto-dispatch, and result harvesting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
